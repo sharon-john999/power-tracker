@@ -13,7 +13,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 // ===== USER SETTINGS =====
 const char* ssid = "Meep";
 const char* password = "whyarewestillhere";
-String apiKey = "28H79EWUPTD5A2J5";
+String apiKey = "";
 
 #define CURRENT_PIN 34
 #define SAMPLES 1000
